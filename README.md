@@ -17,6 +17,10 @@ HTML ve CSS kullanıldı.
 
 
 
+https://user-images.githubusercontent.com/129687853/234730142-958edfe3-545e-4257-8742-53a484f67b08.mp4
+
+
+
 
 <h4> GIF </h4>
 
