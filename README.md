@@ -1,6 +1,6 @@
 <h1>Login Arayüz Tasarımı</h1>
 
-Yazılım kursunda oluşturduğum ilk projedir, deneme projesi olup statik yapılıdır.
+Statik yapılı bir giriş ekranı arayüzü denemesidir.
 <h2> Kullanılan Teknolojiler</h2>
 
 HTML ve CSS kullanılarak oluşturulmuş giriş ekranı tasarımıdır.
