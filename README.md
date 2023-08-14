@@ -1,6 +1,6 @@
 <h1>Login Arayüz Tasarımı</h1>
 
-Statik yapılı bir giriş ekranı arayüzü denemesidir.
+Statik yapılı bir giriş ekranı arayüzü projesidir.
 <h2> Kullanılan Teknolojiler</h2>
 
 HTML ve CSS kullanılarak oluşturulmuş giriş ekranı tasarımıdır.
